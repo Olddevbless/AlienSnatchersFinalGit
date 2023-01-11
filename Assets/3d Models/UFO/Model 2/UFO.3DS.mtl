@@ -1,0 +1,15 @@
+# Blender 3.1.0 MTL File: 'None'
+# www.blender.org
+
+newmtl UFO
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd  D:\Desktop\Elad and Dani Unity\Personal Project\Alien-Snatchers\Assets\3d Models\UFO\Model 2\UFOMetal.png
+map_Ks  D:\Desktop\Elad and Dani Unity\Personal Project\Alien-Snatchers\Assets\3d Models\UFO\Model 2\UFORough.png
+map_Bump  -bm 0.300000 D:\Desktop\Elad and Dani Unity\Personal Project\Alien-Snatchers\Assets\3d Models\UFO\Model 2\Map__54_Normal_Bump.tga
